@@ -261,12 +261,6 @@ section {
     color: #0e2368;
 }
 
-@media (max-width: 760px) {
-    .sobreMi-Hobbies {
-        height: 100vh;
-    }
-
-}
 @media (min-width: 760px) {
     .fa-php{
         background-position: 5px 0;
